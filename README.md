@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/broken-crown-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Broken Crown, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/broken-crown-vol-2/) |
+| **Get License** | [Get a Licensing Quote for Broken Crown, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/broken-crown-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan de jaadu vich dubbda haan deep baby
+> Kho gayi my sleep, saari raat jaagda haan
+> Black out raatan vich karda haan ride sohniye
+> Stay by my side, tera raah main takkda haan
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
